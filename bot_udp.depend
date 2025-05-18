@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1747573830 source:c:\users\user5\onedrive\pulpit\projekt 13.05\codeblocks\bot_udp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<time.h>
+	<string.h>
+
